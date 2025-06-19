@@ -14,7 +14,7 @@
 ChatGPT Assistant is a modern desktop application built with Python's Tkinter and ttkbootstrap, providing a beautiful and responsive user interface. The application features a customizable theme system, screenshot capabilities, and integration with external services.
 
 <video width="600" controls>
-  <source src="https://github.com/MinhPhanCoder/Chatgpt_Support_App_demo/blob/main/demo.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/MinhPhanCoder/Chatgpt_Support_App_demo/main/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
